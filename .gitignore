@@ -24,3 +24,5 @@ tags
 /examples/html/*
 /examples/latex/*
 
+doc/html
+doc/latex
